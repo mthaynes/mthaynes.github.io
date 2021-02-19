@@ -1,5 +1,8 @@
 ---
 layout: post
-title: Welcome!
+title: Howdy Howdy Howdy
 ---
-You can change the title above if you want to and then write your content.  
+Oh man...
+# There is so much power on the internet
+## There are so many forks once this started
+We do research at cal poly on stuff doing stuff
